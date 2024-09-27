@@ -8,5 +8,6 @@ DELAY 100
 STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
 DELAY 100
 ENTER
+Volume 100
 DELAY 500
 STRING f
